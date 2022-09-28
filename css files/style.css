@@ -6,7 +6,7 @@ body {
   background-image: url("/images/bg.jpg");
   max-width: 1920px;
 }
-.sitename {
+.sitename{
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   font-weight: bolder;
   font-size: 30px;
@@ -15,6 +15,14 @@ body {
   background-color: black;
   opacity: 70%;
   padding: 1px 0;
+}
+.sitename a{
+  text-decoration: none;
+  color: aliceblue;
+}
+h2
+{
+  color: aliceblue;
 }
 .opacity-bg {
   background-color: black;
