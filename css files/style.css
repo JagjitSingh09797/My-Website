@@ -58,11 +58,13 @@ h2
   max-height: 400px;
   max-width: 190px;
   margin: 20px;
+  width: 180px;
+  height: 370px;
   padding: 20px;
 }
 img {
   height: 275px;
-  width: 183px;
+  width: 180px;
   opacity: 100%;
 }
 img:hover {
