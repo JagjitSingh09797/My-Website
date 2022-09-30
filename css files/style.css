@@ -95,8 +95,9 @@ li {
     .movie-box{
         margin: 10px;
         max-width: 300px;
-        width: 120px;
+        width: 130px;
         height: 250px;
+        padding-left: 25px;
     }
     p{
       text-align: center;
@@ -105,7 +106,7 @@ li {
       max-width: 700px;
     }
     img{
-      width: 120px;
+      width: 130px;
       height: 150px;
     }
     .opacity-bg{
