@@ -82,6 +82,8 @@ img:hover {
 }
 ul {
   display: flex;
+  flex-wrap: wrap;
+  
 }
 li {
   list-style: none;
@@ -92,12 +94,16 @@ li {
     }
     .movie-box{
         max-width: 300px;
+        width: 140px;
+    }
+    body{
+      max-width: 700px;
+    }
+    img{
+      width: 140px;
+      height: 180px;
     }
     .opacity-bg{
         max-width: 700px;
-    }
-    ul{
-        display: flex;
-        flex-direction: column;
     }
 }
