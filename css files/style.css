@@ -94,13 +94,17 @@ li {
     }
     .movie-box{
         max-width: 300px;
-        width: 120px;
+        width: 105px;
+        height: 310px;
+    }
+    p{
+      text-align: center;
     }
     body{
       max-width: 700px;
     }
     img{
-      width: 120px;
+      width: 105px;
       height: 150px;
     }
     .opacity-bg{
