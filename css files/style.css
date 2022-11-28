@@ -114,6 +114,8 @@ h5{
   border: 2px solid white;
   padding: 5px;
   font-weight: 800;
+  font-size: 20px;
+  cursor: pointer;
 }
 h5:hover{
   background-color: white;
@@ -125,6 +127,24 @@ h5:hover{
 }
 span{
   color: rgb(202, 23, 62);
+}
+.MS{
+  text-align: center;
+}
+.MS a{
+  color: rgb(0, 0, 0);
+  background-color: white;
+  font-size: 18px;
+  font-weight: 800;
+  font-family: 'Oswald',sans-serif;
+  padding: 8px;
+  margin: 2px;
+  text-decoration: none;
+}
+.MS a:hover
+{
+  color: white;
+  background-color: black;
 }
 @media only screen and (max-width:700px){
     .sitename{
